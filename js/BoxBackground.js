@@ -17,8 +17,8 @@
                 height: 750,
                 cellWidth: 75, 
                 cellHeight: 75, 
-                cellSpace: 2,
-                lagTime: 200,
+                cellSpace: 0,
+                lagTime: 400,
                 mainColor: 'rgb(0, 46, 98)',
                 displayType: 'slowfade'
             };
